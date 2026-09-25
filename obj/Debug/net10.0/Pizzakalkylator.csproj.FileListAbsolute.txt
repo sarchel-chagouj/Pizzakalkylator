@@ -1,0 +1,15 @@
+C:\Users\sarwi\source\repos\Pizzakalkylator\bin\Debug\net10.0\Pizzakalkylator.exe
+C:\Users\sarwi\source\repos\Pizzakalkylator\bin\Debug\net10.0\Pizzakalkylator.deps.json
+C:\Users\sarwi\source\repos\Pizzakalkylator\bin\Debug\net10.0\Pizzakalkylator.runtimeconfig.json
+C:\Users\sarwi\source\repos\Pizzakalkylator\bin\Debug\net10.0\Pizzakalkylator.dll
+C:\Users\sarwi\source\repos\Pizzakalkylator\bin\Debug\net10.0\Pizzakalkylator.pdb
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.AssemblyInfoInputs.cache
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.AssemblyInfo.cs
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.csproj.CoreCompileInputs.cache
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.dll
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\refint\Pizzakalkylator.dll
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.pdb
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakalkylator.genruntimeconfig.cache
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\ref\Pizzakalkylator.dll
+C:\Users\sarwi\source\repos\Pizzakalkylator\obj\Debug\net10.0\Pizzakal.BEFC3DAE.Up2Date
